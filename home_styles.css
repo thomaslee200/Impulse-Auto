@@ -8,7 +8,7 @@ height: 150px;
 nav li {
         font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
         list-style-type: none;
-        color: rgba(23, 67, 88, 0.5);
+        color: rgba(255,192,203,1);
        
 }
 
@@ -17,7 +17,7 @@ nav li {
     }
 
 nav li a {
-        color: rgba(23, 67, 88, 0.5);
+        color: rgba(255,192,203,1);
         text-decoration: none;
 }
 
