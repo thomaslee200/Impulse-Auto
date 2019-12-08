@@ -7,7 +7,7 @@ height: 150px;
 
 nav li {
         font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-        list-style-type: row;
+        list-style-type: disc;
         color: rgba(255,192,203,1);
        
 }
