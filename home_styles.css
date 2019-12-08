@@ -1,5 +1,5 @@
 nav {
-background-color: blue;
+background-color: white;
 float: left;
 height: 150px;
 
@@ -8,7 +8,8 @@ height: 150px;
 nav li {
         font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
         list-style-type: none;
-        color: rgba(255, 255, 255, 0.8);
+        color: rgba(23, 67, 88, 0.5);
+       
 }
 
     nav li:hover {
@@ -30,3 +31,5 @@ img {
     position: absolute;
     left: 40%;
 }
+
+rgba(255, 255, 255, 0.8);
