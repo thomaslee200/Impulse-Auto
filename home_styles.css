@@ -5,6 +5,7 @@ height: 150px;
 
 }
 
+
 nav li {
         font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
         list-style-type: disc;
@@ -20,6 +21,9 @@ nav li a {
         color: rgba(255,192,203,1);
         text-decoration: none;
 }
+header {
+        background color: rgba ( 0, 0, 0, 0.5);
+
 
     nav li a:hover {
     color: black;
