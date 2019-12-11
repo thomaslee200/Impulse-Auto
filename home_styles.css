@@ -13,6 +13,16 @@ nav li {
        
 }
 
+
+.container {
+        width = 80%;
+        margin = 0 auto;
+}
+
+header
+{
+        background = rgba(0,0,0);
+       
     nav li:hover {
         list-style-type: disc;
     }
