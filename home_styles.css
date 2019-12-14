@@ -48,15 +48,12 @@ nav li a {
         margin = 0 auto;
 }
 
-header
-{
-        background = rgba(0,0,0);
+header {
+    background = rgba(0,0,0);
+    height: 80px;
 }
        
 
-}
-header {
-        background color: rgba ( 0, 0, 0, 0.5);
 
 
 
