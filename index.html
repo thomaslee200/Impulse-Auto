@@ -7,7 +7,22 @@
     <!--<title>Undecided</title>-->
 
     <link href="home_styles.css" rel="stylesheet" type="text/css" />
+<style>
+.container {
+  position: relative;
+  font-family: Arial;
+}
 
+.text-block {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  background-color: black;
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+</style>
 </head>
 
 
@@ -30,8 +45,20 @@
             <li><a href="vehicles.htm">Products</a></li>
         </ul>
     </nav>
-   
-        <img src="BlueSUV.jpg" 
+   <body>
+
+<h2>Image Text Blocks</h2>
+<p>How to place text blocks over an image:</p>
+
+<div class="container">
+  <img src="BlueSUV.jpg" alt="Nature" style="width:30%;">
+  <div class="text-block">
+    <h4>Nature</h4>
+    <p>What a beautiful sunrise</p>
+  </div>
+</div>
+
+</body> 
 
     <section>
    
