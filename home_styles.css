@@ -1,9 +1,10 @@
 nav {
-background-color: white;
+background-color: 222;
 float:left;
 height: 150px;
 
 }
+
 
 nav li {
         font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -12,6 +13,17 @@ nav li {
        
 }
 
+
+.container {
+        width = 80%;
+        margin = 0 auto;
+}
+
+header
+{
+        background = rgba(0,0,0);
+}
+       
     nav li:hover {
         list-style-type: disc;
     }
@@ -20,6 +32,9 @@ nav li a {
         color: rgba(255,192,203,1);
         text-decoration: none;
 }
+header {
+        background color: rgba ( 0, 0, 0, 0.5);
+
 
     nav li a:hover {
     color: black;
